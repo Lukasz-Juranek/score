@@ -367,9 +367,9 @@ release, as part of the Tool Verification Report.
      - Link to Verification Report (if relevant)
      - Confirmation of Use [YES|NO] (if relevant)
    * - 3-1
-     - gtest (GoogleTest)
+     - gtest (GoogleTest, gMock)
      - C++ testing framework
-     - 1.15.0 (see [1]_)
+     - 1.17.0.bcr.2 (see [1]_)
      - YES
      - :need:`rl__testing_community`
      - :need:`doc_tool__gtest`

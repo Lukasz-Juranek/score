@@ -29,6 +29,6 @@ Testing Frameworks Tools
    :hidden:
    :maxdepth: 2
 
-   gtest
+   gtest/index
    itf
    pytest
